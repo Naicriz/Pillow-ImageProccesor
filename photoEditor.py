@@ -9,7 +9,7 @@ pathOut =  './src/editedImages/'
 
 for filename in os.listdir(path):
     """
-    Here is the explanation for the code above:
+    Here is the explanation for his function:
     1. The loop starts by importing the Image and ImageEnhance modules.
     2. The loop then goes through all the files in the directory and opens them.
     3. The loop then filters the image and rotates it to make it upright.
